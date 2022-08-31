@@ -9,6 +9,6 @@ to inject into parameters and check to see if they get reflected back.
 ### Getting Help
 `python3 xssexp.py -h`
 
-###Usage
-targeturl = http://ethical.com/xss/example1.php?name=hacker
-usage = python3 -u http://ethical.com/xss/example1.php?name=hackerINJECT -l payloads.txt
+### Usage
+ targeturl = http://ethical.com/xss/example1.php?name=hacker
+ usage = python3 -u http://ethical.com/xss/example1.php?name=hackerINJECT -l payloads.txt
