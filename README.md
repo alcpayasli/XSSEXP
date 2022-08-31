@@ -11,4 +11,5 @@ to inject into parameters and check to see if they get reflected back.
 
 ### Usage
  targeturl = http://ethical.com/xss/example1.php?name=hacker
+ 
  usage = python3 -u http://ethical.com/xss/example1.php?name=hackerINJECT -l payloads.txt
